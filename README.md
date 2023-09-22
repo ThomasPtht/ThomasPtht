@@ -1,4 +1,4 @@
-### Hey salut et bienvenue ! 👋
+### Salut et bienvenue ! 👋
 
 
 # 💫 About Me:
