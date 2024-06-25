@@ -8,10 +8,7 @@
 
 📚 Bien que ma formation initiale soit terminée, je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, tout en  restant à jour sur les des dernières avancées technologiques. Je suis également impatient de mettre en pratique mes connaissances dans des projets concrets, tant en individuel qu'en équipe.
 
-🔧 Actuellement, je planifie le développement de projets futurs qui mettront en avant mes compétences en tant que développeur front-end javascript.
-
-Si vous recherchez un développeur passionné par l'apprentissage continu et prêt à relever de nouveaux défis, n'hésitez pas à me contacter ! 🚀
-
+A compter de sept 2024 : alternance au sein du Crédit Agricole afin de préparer le titre de Concepteur Développeur d'Applications
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/thomas-potherat-923868166) 
