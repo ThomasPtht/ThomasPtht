@@ -11,7 +11,7 @@
 A compter de sept 2024 : alternance au sein du Crédit Agricole afin de préparer le titre de Concepteur Développeur d'Applications
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-potherat-923868166/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-potherat-923868166/)
 
 
 # 💻 Tech Stack:
