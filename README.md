@@ -1,13 +1,16 @@
 
 # 💫 About Me:
 👋 Bonjour !
-Actuellement en alternance au Crédit Agricole depuis septembre 2024 pour préparer le titre de Concepteur Développeur d’Applications, mon contrat se termine en novembre 2025.
+Je suis actuellement en recherche d'opportunité après avoir travaillé 15 mois au sein du Crédit Agricole de Champagne Bourgogne (alternance pour préparation du titre Concepteur Développeur d'Application).
 
-🚀 Mon objectif est maintenant de trouver un poste de développeur me permettant de mettre en pratique les connaissances acquises en formation et en entreprise. 
 
-💡 Je possède des compétences solides en React et Next.js pour concevoir des interfaces réactives, performantes et maintenables. Côté backend, j’ai déjà développé des API REST et GraphQL et travaillé avec des SGBD tels que PostgreSQL.
+🚀 Mon objectif est de trouver un poste de développeur fullstack me permettant de mettre en pratique les connaissances acquises en formation et en entreprise. 
 
-📚 Je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, tout en  restant à jour sur les des dernières avancées technologiques. Je suis également impatient de mettre en pratique mes connaissances dans des projets concrets, tant en individuel qu'en équipe.
+💡 Je possède des compétences solides en React et Next.js pour concevoir des interfaces réactives, performantes et maintenables. Côté backend, j’ai déjà développé des API REST et GraphQL, travaillé avec des ORM comme TypeORM, Prisma et des SGBD tels que PostgreSQL.
+Confronté à une démarche DevOps sur des projets réalisés, où j'ai pu mettre en place des tests unitaires/intégrations et participé à l'élaboration de pipeline CI/CD.
+
+📚 Je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, tout en  restant à jour sur les des dernières avancées technologiques. 
+Je suis impatient de mettre en pratique mes connaissances sur des projets concrets, tant en individuel qu'en équipe.
 
 
 ## 🌐 Social:
