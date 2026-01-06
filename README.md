@@ -4,12 +4,13 @@
 Je suis actuellement en recherche d'opportunité après avoir travaillé 15 mois au sein du Crédit Agricole de Champagne Bourgogne (alternance pour préparation du titre Concepteur Développeur d'Application).
 
 
-🚀 Mon objectif est de trouver un poste de développeur fullstack me permettant de mettre en pratique les connaissances acquises en formation et en entreprise. 
+🚀 Mon objectif est de trouver un poste de développeur fullstack ou front me permettant de mettre en pratique les connaissances acquises en formation et en entreprise. 
 
-💡 Je possède des compétences solides en React et Next.js pour concevoir des interfaces réactives, performantes et maintenables. Côté backend, j’ai déjà développé des API REST et GraphQL, travaillé avec des ORM comme TypeORM, Prisma et des SGBD tels que PostgreSQL.
+💡 Je possède des compétences en React et Next.js pour concevoir des interfaces réactives, performantes et maintenables. Côté backend, j’ai déjà développé des API REST et GraphQL, travaillé avec des ORM comme TypeORM, Prisma et des SGBD tels que PostgreSQL.
 Confronté à une démarche DevOps sur des projets réalisés, où j'ai pu mettre en place des tests unitaires/intégrations et participé à l'élaboration de pipeline CI/CD.
 
-📚 Je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, tout en  restant à jour sur les des dernières avancées technologiques. 
+📚 Je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, par exemple en ce moment j'étudie le framework Angular.
+
 Je suis impatient de mettre en pratique mes connaissances sur des projets concrets, tant en individuel qu'en équipe.
 
 
