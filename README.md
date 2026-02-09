@@ -14,6 +14,19 @@ Confronté à une démarche DevOps sur des projets réalisés, où j'ai pu mettr
 Je suis impatient de mettre en pratique mes connaissances sur des projets concrets, tant en individuel qu'en équipe.
 
 
+--------------------
+
+_Hello! I'm currently looking for opportunities after working for 15 months at Crédit Agricole Champagne Bourgogne (apprenticeship for my Application Designer/Developer certification)._
+
+_My goal is to find a full-stack or front-end developer position that will allow me to put the knowledge I've gained through my studies and professional experience into practice._
+
+_I have skills in React and Next.js for designing responsive, high-performance, and maintainable interfaces. On the backend side, I've already developed REST and GraphQL APIs, worked with ORMs like TypeORM and Prisma, and DBMSs such as PostgreSQL. I've also gained experience with DevOps on projects where I implemented unit/integration tests and participated in the development of CI/CD pipelines._
+
+_I am committed to ongoing professional development to improve and enhance my skills; for example, I am currently studying the Angular framework._
+
+_I am eager to apply my knowledge to real-world projects, both individually and as part of a team._
+
+
 ## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-potherat-923868166/)
 
