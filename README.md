@@ -9,7 +9,7 @@ Je suis actuellement en recherche d'opportunité après avoir travaillé 15 mois
 💡 Je possède des compétences en React et Next.js pour concevoir des interfaces réactives, performantes et maintenables. Côté backend, j’ai déjà développé des API REST et GraphQL, travaillé avec des ORM comme TypeORM, Prisma et des SGBD tels que PostgreSQL.
 Confronté à une démarche DevOps sur des projets réalisés, où j'ai pu mettre en place des tests unitaires/intégrations et participé à l'élaboration de pipeline CI/CD.
 
-📚 Je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, par exemple en ce moment j'étudie le framework Angular.
+📚 Je reste engagé dans une démarche de formation continue afin de m'améliorer et accroître mes compétences, en découvrant d'autres outils comme par exemple Angular ou bien React Native. Je développe en ce moment une app mobile destinée à être partagée sur les stores (KITROOM).
 
 Je suis impatient de mettre en pratique mes connaissances sur des projets concrets, tant en individuel qu'en équipe.
 
@@ -22,7 +22,7 @@ _My goal is to find a full-stack or front-end developer position that will allow
 
 _I have skills in React and Next.js for designing responsive, high-performance, and maintainable interfaces. On the backend side, I've already developed REST and GraphQL APIs, worked with ORMs like TypeORM and Prisma, and DBMSs such as PostgreSQL. I've also gained experience with DevOps on projects where I implemented unit/integration tests and participated in the development of CI/CD pipelines._
 
-_I am committed to ongoing professional development to improve and enhance my skills; for example, I am currently studying the Angular framework._
+_I am committed to ongoing professional development to improve and enhance my skills; discovering new tools like Angular or currently React Native. I am currently developing a mobile app intended for release on app stores (KITROOM). _
 
 _I am eager to apply my knowledge to real-world projects, both individually and as part of a team._
 
